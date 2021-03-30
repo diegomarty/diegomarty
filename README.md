@@ -5,7 +5,7 @@
 [![Resume](https://img.shields.io/badge/Resume-000000?logo=github&style=for-the-badge&logoColor=white)](https://github.com/diegomarty/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge&logoColor=white)](mailto:dms509@hotmail.com)
 
-❤️ ![VsCode](https://img.shields.io/badge/VsCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VsCode](https://img.shields.io/badge/VsCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### Technologies 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
