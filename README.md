@@ -1,6 +1,6 @@
 ### Hi there, I'm Diego Marty  _(DiegoMarty)_
 *Developer at [Internacionalweb](https://internacionalweb.com)*  
-My Web [DiegoMarty](http://www.diegomarty.com/)*
+My Web [DiegoMarty](http://www.diegomarty.com/)
 
 ![Discord](https://img.shields.io/badge/DiegoMarty%238488-7289DA?logo=discord&style=for-the-badge&logoColor=white)
 [![Resume](https://img.shields.io/badge/Resume-000000?logo=github&style=for-the-badge&logoColor=white)](https://github.com/diegomarty/)
