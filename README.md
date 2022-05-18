@@ -25,3 +25,9 @@ My Web [DiegoMarty.com](http://www.diegomarty.com/)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Json](https://img.shields.io/badge/Json-000000?style=for-the-badge&logo=Json&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+### Some stats 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegomarty&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=diegomarty&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegomarty)](https://github.com/anuraghazra/github-readme-stats)
