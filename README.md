@@ -9,7 +9,6 @@
 ![Discord](https://img.shields.io/badge/DiegoMarty%238488-7289DA?logo=discord&style=for-the-badge&logoColor=white)
 [![Resume](https://img.shields.io/badge/Resume-000000?logo=github&style=for-the-badge&logoColor=white)](https://github.com/diegomarty/)
 [![mail](https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge&logoColor=white)](mailto:dms509@hotmail.com)
-My Web [DiegoMarty.com](http://www.diegomarty.com/)
 
 #### Every adventure beginds with a choice 
 
