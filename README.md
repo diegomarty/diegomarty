@@ -10,7 +10,7 @@
 [![Resume](https://img.shields.io/badge/Resume-000000?logo=github&style=for-the-badge&logoColor=white)](https://github.com/diegomarty/)
 [![mail](https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge&logoColor=white)](mailto:dms509@hotmail.com)
 
-#### Every adventure beginds with a choice 
+#### Every adventure beginds with a choice <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Pok%C3%A9_Ball_icon.svg" width="25px"><img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Pok%C3%A9_Ball_icon.svg" width="25px"><img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Pok%C3%A9_Ball_icon.svg" width="25px">
 
 ## My setup to develop
 ![with-coffee](https://img.shields.io/badge/%E2%98%95%EF%B8%8F%20coffee-yellow.svg?style=for-the-badge)
