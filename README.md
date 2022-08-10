@@ -15,7 +15,7 @@
 ## My setup to develop
 ![with-coffee](https://img.shields.io/badge/%E2%98%95%EF%B8%8F%20coffee-yellow.svg?style=for-the-badge)
 ![VsCode](https://img.shields.io/badge/VsCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![](https://komarev.com/ghpvc/?username=DiegoMarty&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=DiegoMarty&style=for-the-badge&label=PROFILE+VIEWS)
 
 ## Technologies 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
