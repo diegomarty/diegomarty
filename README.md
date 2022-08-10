@@ -36,6 +36,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
+![](https://komarev.com/ghpvc/?username=DiegoMarty)
 
 ### Some stats 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegomarty&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
