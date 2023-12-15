@@ -1,4 +1,4 @@
-# Hi there! I'm Diego Marty
+# Hi there! I'm Diego Marty <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" />
 
 ## About Me
 
